@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256">
+  <!-- Polygonal light, split logs and bright flame; no opaque backdrop or filters. -->
+  <path fill="#dc913b" fill-opacity="0.09" d="M128 13L154 66L212 109L245 182L223 223L159 246L95 246L26 222L7 180L46 102L91 69Z"/>
+  <g stroke="#29372d" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+    <path fill="#6d7460" d="M24 203L38 184L61 184L73 200L63 221L35 226Z"/>
+    <path fill="#777b66" d="M181 202L193 182L217 187L233 210L217 232L191 229Z"/>
+    <path fill="#596452" d="M67 215L86 201L107 208L111 234L91 251L67 245Z"/>
+    <path fill="#73806a" d="M146 219L167 205L185 217L184 243L163 253L145 241Z"/>
+    <path fill="#646e5c" d="M104 229L126 216L146 229L144 251L118 253L101 241Z"/>
+    <path fill="#7e6240" d="M52 191L66 175L195 212L200 227L185 235L54 203Z"/>
+    <path fill="#a57b47" d="M62 177L194 213L184 221L52 191Z" stroke-width="4"/>
+    <path fill="#5e4d35" d="M66 227L58 214L185 177L202 189L195 205L84 238Z"/>
+    <path fill="#8c6b3d" d="M59 214L185 178L196 187L75 225Z" stroke-width="4"/>
+    <path fill="none" d="M80 187L103 197M153 207L172 214M98 217L118 211M159 196L175 191" stroke="#3f4230" stroke-width="4"/>
+    <path fill="#d97b37" stroke="#805132" stroke-width="5" d="M86 203Q61 182 65 154Q66 133 79 114Q72 141 94 145Q102 127 102 109Q99 86 114 64Q110 98 130 108Q145 91 149 57Q170 90 165 119Q166 139 180 124Q193 142 190 161Q186 190 165 204Q146 218 122 213Q100 215 86 203Z"/>
+    <path fill="#edaf4f" stroke="none" d="M95 200Q79 182 84 161L101 170Q119 146 119 122Q138 144 135 160Q153 156 158 133Q177 152 175 173Q173 192 154 203Q123 218 95 200Z"/>
+    <path fill="#ffe199" stroke="none" d="M111 203Q100 193 106 180Q109 172 120 160Q119 179 129 182Q139 176 140 167Q153 184 148 195Q142 208 128 209Q119 210 111 203Z"/>
+    <path fill="#e8b461" d="M105 44L108 32L114 39L112 51Z" stroke="none"/>
+    <path fill="#f8cb79" d="M177 80L182 64L187 73L182 86Z" stroke="none"/>
+    <path fill="#da9747" d="M73 92L77 81L83 90L78 98Z" stroke="none"/>
+    <path fill="none" d="M36 207L51 204M193 208L212 213M78 232L91 229M159 237L170 231" stroke="#969c7f" stroke-width="4"/>
+  </g>
+</svg>

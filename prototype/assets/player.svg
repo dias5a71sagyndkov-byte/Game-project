@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="384" viewBox="0 0 256 384">
+  <!-- An original wanderer of the quiet marsh, carrying a copper field lantern. -->
+  <g stroke="#192b29" stroke-width="7" stroke-linecap="round" stroke-linejoin="round">
+    <path fill="#2e4948" d="M91 298L91 349L75 366L74 380H116L119 312Z"/>
+    <path fill="#2e4948" d="M139 307L145 351L138 368L141 380H186L181 363L166 346L164 296Z"/>
+    <path fill="#213936" d="M75 367L114 367L116 380H73Z"/>
+    <path fill="#213936" d="M143 367L181 367L186 380H142Z"/>
+    <path fill="#4a6860" d="M71 150L47 223L53 252L75 255L87 199L105 176Z"/>
+    <path fill="#b78b59" d="M52 237L51 258L61 269L75 263L79 246L70 233Z"/>
+    <path fill="#4a6860" d="M168 147L191 177L200 218L189 250L171 245L172 202L151 180Z"/>
+    <path fill="#bb9569" d="M175 232L168 252L172 267L185 270L196 256L193 240Z"/>
+    <path fill="#607d69" d="M87 128L158 128L180 160L176 233L190 309L147 324L125 312L92 327L66 309L79 232L68 163Z"/>
+    <path fill="#466457" d="M126 155L126 310L147 324L190 309L176 233L179 163L158 138Z" stroke="none"/>
+    <path fill="#bfa064" d="M101 149L110 157L104 228L90 261L69 271L77 226L84 170Z"/>
+    <path fill="#d9b371" d="M157 143L143 158L158 213L180 225L177 174Z"/>
+    <path fill="#2f4840" d="M81 232L172 232L176 250L79 250Z"/>
+    <path fill="#cda666" d="M120 229H142V251H120Z" stroke-width="5"/>
+    <path fill="#476055" d="M148 253L168 255L171 282L144 287Z" stroke-width="5"/>
+    <path fill="#33534f" d="M58 104Q61 55 94 33L124 10L159 37Q190 62 194 105L178 151L126 164L75 145Z"/>
+    <path fill="#688273" d="M125 11L98 57L78 102L82 144L59 104Q60 56 95 32Z" stroke="none"/>
+    <path fill="#b9a280" d="M88 83Q126 63 162 90L164 120Q153 150 126 151Q99 148 86 121Z"/>
+    <path fill="#293c33" d="M84 99Q117 80 166 105L159 83L129 64L97 77Z"/>
+    <path fill="none" d="M109 111L117 109M142 110L149 113" stroke-width="6"/>
+    <path fill="#c69b5d" d="M82 139L113 152L160 142L165 160L132 175L89 160Z"/>
+    <path fill="#ab7e47" d="M104 164L118 174L111 197L126 231L103 225L92 201Z" stroke-width="5"/>
+    <path fill="none" d="M163 41L155 59M171 52L160 69" stroke="#8b9a77" stroke-width="4"/>
+    <path fill="none" d="M76 283L92 276M152 293L170 287M91 338L112 339" stroke="#829276" stroke-width="4"/>
+    <path fill="none" d="M201 218L213 232L214 264" stroke="#574a38" stroke-width="5"/>
+    <path fill="#a77b43" d="M201 263H226L231 295L221 311H205L195 295Z" stroke-width="5"/>
+    <path fill="#edc879" d="M204 272H221L224 294L216 302L202 295Z" stroke-width="3"/>
+    <path fill="#fff0b8" d="M211 279L208 291L216 294L218 282Z" stroke="none"/>
+  </g>
+</svg>

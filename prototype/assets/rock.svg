@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="192" viewBox="0 0 256 192">
+  <!-- Layered wet shale threaded with small marsh reeds. -->
+  <g stroke="#243932" stroke-width="6" stroke-linejoin="round" stroke-linecap="round">
+    <path fill="none" d="M51 125L40 57M44 89L26 66M45 100L62 73M192 132L203 61M198 91L220 68M197 106L181 83" stroke="#6d8256" stroke-width="5"/>
+    <path fill="#879164" d="M36 58L34 36L40 30L47 40L46 60ZM199 63L198 41L205 32L211 44L209 65Z" stroke-width="3"/>
+    <path fill="#667973" d="M12 149L45 100L86 79L113 49L158 54L201 86L229 133L249 166L236 189H37Z"/>
+    <path fill="#8a9690" d="M45 100L87 79L113 49L157 54L201 86L158 98L121 82L81 112L54 127Z" stroke="none"/>
+    <path fill="#4f625b" d="M158 98L201 86L229 133L249 166L236 189H169L177 149L163 132Z" stroke="none"/>
+    <path fill="#748780" d="M12 149L54 127L80 133L119 113L163 132L177 149L154 169L93 161L62 180L37 188Z" stroke="none"/>
+    <path fill="none" d="M47 121L76 126L115 101L145 111M45 151L74 158L103 140L133 145M172 117L192 127L211 121M174 166L206 159L227 173" stroke="#3d554b" stroke-width="4"/>
+    <path fill="#577447" d="M59 109L85 94L97 97L88 111L67 121L48 119ZM159 91L177 90L194 97L187 108L162 105Z" stroke="none"/>
+    <path fill="#8e9665" d="M8 188L12 167L23 181L32 160L39 185L53 175L51 189ZM205 189L211 172L221 183L231 161L235 185L247 178L250 189Z" stroke-width="4"/>
+    <path fill="none" d="M109 58L104 77L122 83M125 155L134 170L126 185" stroke="#31493e" stroke-width="4"/>
+  </g>
+</svg>
